@@ -1,0 +1,22 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-09-03 09:35:51 --> Severity: Warning --> Undefined array key "picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 65
+ERROR - 2024-09-03 09:35:51 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 70
+ERROR - 2024-09-03 09:49:53 --> Severity: Warning --> Undefined variable $loginUrl /var/www/html/demo_sites/nalaaorganics/interface/application/views/home_view.php 474
+ERROR - 2024-09-03 12:54:20 --> Severity: Warning --> Undefined array key "picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 65
+ERROR - 2024-09-03 12:54:20 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 70
+ERROR - 2024-09-03 13:44:55 --> Severity: Warning --> Undefined array key "picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 65
+ERROR - 2024-09-03 13:44:55 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 70
+ERROR - 2024-09-03 14:47:41 --> Severity: Warning --> Undefined array key "picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 65
+ERROR - 2024-09-03 14:47:41 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/commonadminFiles/header_main.php 70
+ERROR - 2024-09-03 14:48:14 --> Severity: Warning --> Undefined variable $comments /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/orders/bookings/assign_order_view.php 21
+ERROR - 2024-09-03 14:48:28 --> Severity: Warning --> Undefined array key "profile_picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 29
+ERROR - 2024-09-03 14:48:28 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 34
+ERROR - 2024-09-03 14:48:28 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 44
+ERROR - 2024-09-03 14:51:15 --> Severity: Warning --> Undefined variable $comments /var/www/html/demo_sites/nalaaorganics/interface/application/views/admin/orders/bookings/assign_order_view.php 21
+ERROR - 2024-09-03 19:32:18 --> Severity: Warning --> Undefined array key "profile_picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 29
+ERROR - 2024-09-03 19:32:18 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 34
+ERROR - 2024-09-03 19:32:18 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 44
+ERROR - 2024-09-03 20:17:12 --> Severity: Warning --> Undefined array key "profile_picture" /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 29
+ERROR - 2024-09-03 20:17:12 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 34
+ERROR - 2024-09-03 20:17:12 --> Severity: 8192 --> ucfirst(): Passing null to parameter #1 ($string) of type string is deprecated /var/www/html/demo_sites/nalaaorganics/interface/application/views/delivery/commondeliveryFiles/header_main.php 44

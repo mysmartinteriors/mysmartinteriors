@@ -1,0 +1,13 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.2",
+        "google/apiclient": "^2.15.0",
+        "cashfree/cashfree-pg": "^4.1",
+        "tecnickcom/tcpdf": "^6.2.13"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

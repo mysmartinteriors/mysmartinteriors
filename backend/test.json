@@ -1,0 +1,105 @@
+{
+  "template": { "shortid": "MUQQTz-" },
+  "data": {
+    "customer_data": {
+      "name": "SART",
+      "clients_name": null,
+      "branch_name": "SART Branch"
+    },
+    "candidate_data": {
+      "code": "sart/sartB/2024-01/6/P1",
+      "ref_id": "1234",
+      "name": "kavya",
+      "phone": null,
+      "email": null
+    },
+    "employment_data": {
+      "input": {
+        "forms": {
+          "organization_name": "sart",
+          "location": "bhadrappa layout",
+          "contact_number": "dddd",
+          "employee_id": "1234",
+          "date_of_joining": "12-09-2023",
+          "date_of_reliving": "2-2-2024",
+          "designation": "developer\\",
+          "remuneration": "dddd",
+          "reason_for_leaving": "",
+          "exit_formalities": "",
+          "eligible_for_rehire": "",
+          "": ""
+        },
+        "custom_forms": { "": "" },
+        "uploads": [
+          {
+            "label": "Document 1<br>0",
+            "name": "document10",
+            "created_at": "30-Jan-2024 06:06:09 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/backend/uploads/pdftoimage/2024-01-30-18-23-12/output_1.jpeg"
+          },
+          {
+            "label": "Document 1<br>1",
+            "name": "document11",
+            "created_at": "30-Jan-2024 06:06:09 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/backend/uploads/pdftoimage/2024-01-30-18-23-12/output_2.jpeg"
+          },
+          {
+            "label": "Document 2<br>0",
+            "name": "document20",
+            "created_at": "30-Jan-2024 06:06:09 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/backend/uploads/pdftoimage/2024-01-30-18-23-14/output_11.jpeg"
+          },
+          {
+            "label": "Document 2<br>1",
+            "name": "document21",
+            "created_at": "30-Jan-2024 06:06:09 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/backend/uploads/pdftoimage/2024-01-30-18-23-14/output_12.jpeg"
+          },
+          {
+            "label": "Document 3<br>1",
+            "name": "document3",
+            "created_at": "30-Jan-2024 06:06:09 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/interface/uploads/workorders/sart-sartb-2024-01-6/sart-sartb-2024-01-6-p1/sart-sartb-2024-01-6-p1-c1 - employment/1df39a791a2f9187843bb9ec9b08ea94.jpg"
+          }
+        ]
+      },
+      "output": {
+        "forms": {
+          "organization": "NA",
+          "location": "Bangalore",
+          "contact_number": "7892790889",
+          "employee_id": "112112",
+          "date_of_joining": "Please Confirm",
+          "date_of_relieving": "NA",
+          "designation": "Please Confirm",
+          "remuneration": "Please Confirm",
+          "reason_for_leaving": "Please Confirm",
+          "exit_formalities": "",
+          "text-1695374957317": "",
+          "verify_by": "",
+          "additional_comments": ""
+        },
+        "custom_forms": [],
+        "uploads": [
+          {
+            "label": "Document 2<br>1",
+            "name": "document_2",
+            "created_at": "30-Jan-2024 06:22:46 PM",
+            "latlong": null,
+            "file_url": "https://sartdev.in/crm_demo/interface/uploads/workorders/sart-sartb-2024-01-6/sart-sartb-2024-01-6-p1/sart-sartb-2024-01-6-p1-c1 - employment/9a0bae2ac5e5e7eff555e8dde2182e14.png"
+          }
+        ]
+      }
+    },
+    "check_created_time": "30-Jan-2024",
+    "report_generated_time": "30-Jan-2024",
+    "services_name": "Employment",
+    "comments": null
+  },
+  "options": { "reports": { "save": true } }
+}

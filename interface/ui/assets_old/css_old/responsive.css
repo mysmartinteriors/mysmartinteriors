@@ -1,0 +1,49 @@
+
+@media (min-width: 992px){
+    .bootbox.modal .modal-lg.custom-width {
+        max-width: 1150px;
+    }
+}
+@media (min-width: 576px){
+    .modal-dialog-centered {
+        min-height: calc(100% - (1.75rem * 2))
+    }
+}
+@media (max-width: 768px){
+#adv-search .btn {
+    cursor: pointer;
+    padding: 6px 8px;
+    font-size: 13px;
+}
+#adv-search.input-group .form-control {
+    font-size: 12px;
+    height: 30px;
+    padding: 0px 0px 0px 10px;
+}
+}
+@media screen and (min-width: 768px) {
+    #adv-search {
+        width: 500px;
+        margin: 0 auto;
+    }
+    #adv-search .dropdown.dropdown-lg {
+        position: static !important;
+    }
+    #adv-search .dropdown.dropdown-lg .dropdown-menu {
+        min-width: 500px;
+    }
+    .banner .banner-title {
+        font-size: 2.1rem;
+    }
+    .banner .banner-content {
+        left: 3rem;
+    }
+}
+@media screen and (min-width: 992px){
+.banner .banner-content {
+    left: 4rem;
+}
+.banner .banner-title {
+    font-size: 2.4rem;
+}
+}
