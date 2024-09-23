@@ -45,15 +45,16 @@
                         <a class="read_more text-decoration-none" href="about.html">Read More
                             <i class="dot fa-solid fa-circle-small"></i>
                         </a>
-                        <div class="last_list">
+                        <!-- <div class="last_list">
                             <figure class="header-headphoneicon mb-0"><img class="img-fluid"
-                                    src="<?php echo base_url() ?>ui/assets/images/header-headphoneicon.png" alt="">
+                                    src="<?php //echo base_url() 
+                                            ?>ui/assets/images/header-headphoneicon.png" alt="">
                             </figure>
                             <div class="content">
                                 <span>Get Support</span>
                                 <a class="text-decoration-none last_list_atag" href="tel:1234567890">123-456-7890</a>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="badge c-black" id="badge">
                             <span class="badge__char"> </span>
                             <span class="badge__char">B</span>
