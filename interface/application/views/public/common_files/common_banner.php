@@ -19,50 +19,44 @@
                             <div class="carousel-inner">
                                 <div class="carousel-item">
                                     <div class="banner_content">
-                                        <h1>INNOVATIVE<span class="word-space">IDEAS</span>Stylish<span>Designs</span>
+                                        <h1>ELEVATE<span class="word-space">YOUR</span>Stylish<span>SPACE</span>
                                         </h1>
-                                        <p class="text-size-14 text-white">Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                                            pariat cepteur sint o ccaecat cupidatat.</p>
-                                        <a class="read_more text-decoration-none" href="about.html">Read More
+                                        <p class="text-size-14 text-white">Discover a world where creativity meets elegance. Specializing in transformative design concepts, we tailor every solution to your unique needs. Experience the perfect blend of style and functionality that elevates your home to new heights.</p>
+                                        <!-- <a class="read_more text-decoration-none" href="about.html">Read More
                                             <i class="dot fa-solid fa-circle-small"></i>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item active">
                                     <div class="banner_content">
-                                        <h1>INNOVATIVE<span class="word-space">IDEAS</span>Stylish<span>Designs</span>
+                                        <h1>UNLOCK<span class="word-space">THE</span>TRUE<span>ESSENSE</span>
                                         </h1>
-                                        <p class="text-size-14 text-white">Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                                            pariat cepteur sint o ccaecat cupidatat.</p>
-                                        <a class="read_more text-decoration-none" href="about.html">Read More
+                                        <p class="text-size-14 text-white">
+                                        Unlock the potential of your interiors with inspired designs that resonate with your lifestyle. We focus on blending aesthetics and functionality to craft spaces that inspire and delight. Experience a new standard of living through thoughtful design.
+                                        </p>
+                                        <!-- <a class="read_more text-decoration-none" href="about.html">Read More
                                             <i class="dot fa-solid fa-circle-small"></i>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <div class="banner_content">
-                                        <h1>INNOVATIVE<span class="word-space">IDEAS</span>Stylish<span>Designs</span>
+                                        <h1>EMBRACE<span class="word-space">YOUR</span>NEW<span>VISION</span>
                                         </h1>
-                                        <p class="text-size-14 text-white">Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                                            pariat cepteur sint o ccaecat cupidatat.</p>
-                                        <a class="read_more text-decoration-none" href="about.html">Read More
+                                        <p class="text-size-14 text-white">Elevate your space with fresh, creative solutions that reflect your personal style. Our approach combines modern aesthetics with practical design to create inviting environments. Transform your home into a sanctuary of beauty and comfort.</p>
+                                        <!-- <a class="read_more text-decoration-none" href="about.html">Read More
                                             <i class="dot fa-solid fa-circle-small"></i>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item">
                                     <div class="banner_content">
-                                        <h1>INNOVATIVE<span class="word-space">IDEAS</span>Stylish<span>Designs</span>
+                                        <h1>DESIGN<span class="word-space">YOUR</span>Stylish<span>DREAM</span>
                                         </h1>
-                                        <p class="text-size-14 text-white">Duis aute irure dolor in
-                                            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                                            pariat cepteur sint o ccaecat cupidatat.</p>
-                                        <a class="read_more text-decoration-none" href="about.html">Read More
+                                        <p class="text-size-14 text-white">Transform your environment with imaginative designs that tell your story. We focus on creating harmonious spaces that balance beauty and practicality. Embrace a fresh perspective on interiors that enhances your everyday life</p>
+                                        <!-- <a class="read_more text-decoration-none" href="about.html">Read More
                                             <i class="dot fa-solid fa-circle-small"></i>
-                                        </a>
+                                        </a> -->
                                     </div>
                                 </div>
                             </div>

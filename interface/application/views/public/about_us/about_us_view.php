@@ -26,9 +26,7 @@
                     <div class="col-xl-5 col-lg-6 col-md-8 col-sm-12 col-12">
                         <div class="banner_content" data-aos="fade-up">
                             <h1>About Us</h1>
-                            <p class="text-size-14 text-white mb-0">Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum
-                                dolore eu fugiat nulla pariat cepteur sint o ccaecat cupidatat.
+                            <p class="text-size-14 text-white mb-0">Transforming spaces into reflections of your essence where creativity meets functionality for a harmonious living environment.
                             </p>
                         </div>
                     </div>
@@ -54,20 +52,9 @@
                 <div class="col-lg-7 col-md-10 col-sm-12 col-12">
                     <div class="about_content" data-aos="fade-right">
                         <h2>About Us</h2>
-                        <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi.</p>
-                        <p class="text-size-14 mb-0">Duis aute irure dolor in reprehenderit in voluptate velit esse
-                            cillum dolore eu fugiat nulla pariatur.
-                            Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-                            anim id est laborum.
-                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                            laudantium, totam rem aperiam,
-                            eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-                            explicabo. Nemo enim ipsam voluptatem
-                            quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui
-                            ratione voluptatem sequi nesciunt.
-                            Neque.</p>
+                        <p class="text-size-16">At MySmart Interiors, we specialize in transforming spaces into vibrant reflections of your lifestyle.
+                        Our focus is on merging aesthetics with practicality, ensuring that every design choice elevates your environment.</p>
+                        <p class="text-size-14 mb-0">Great design starts with a deep understanding of your vision. By working collaboratively, we create tailored solutions that resonate with your individual style and needs. Committed to quality and sustainability, we prioritize responsible practices while delivering stunning interiors that inspire and rejuvenate. Let us help you craft an environment where every detail is thoughtfully considered.</p>
                         <div class="badge c-black" id="badge">
                             <span class="badge__char"> </span>
                             <span class="badge__char">B</span>
@@ -252,8 +239,7 @@
                                 class="img-fluid">
                         </figure>
                         <h5>Why work with Us</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Partnering with a dedicated team ensures a deep understanding of your unique vision. Our expertise in design and business strategies creates customized interiors that blend aesthetics and functionality. Experience a collaborative process marked by positivity, quality, and meticulous attention to detail.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-0">
@@ -263,8 +249,7 @@
                                 class="img-fluid">
                         </figure>
                         <h5>offices in all City</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Banglore,karnataka</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-0">
@@ -273,8 +258,7 @@
                             <img src="<?php echo base_url() ?>ui/assets/images/chat-icon.png" alt="" class="img-fluid">
                         </figure>
                         <h5>client results</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Our clients experience remarkable transformations that enhance both comfort and aesthetics. Many report a newfound enjoyment in their spaces, creating inviting atmospheres that inspire. Commercial clients often see boosts in productivity and employee satisfaction. We take pride in the positive impact our designs have on everyday life.</p>
                     </div>
                 </div>
             </div>
@@ -441,20 +425,13 @@
                 <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                     <div class="choose_content" data-aos="fade-left">
                         <h2>Why Choose Us</h2>
-                        <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi.</p>
+                        <p class="text-size-16">At MySmart Interiors, our mission is to create spaces that resonate with your vision and lifestyle. We pride ourselves on our dedication to quality and our passion for design. Here’s why our clients trust us to bring their dreams to life.</p>
                         <ul class="list-unstyled mb-0">
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Ut enim ad minim
-                                veniam, quis nostrud exercitation.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Ullamco laboris nisi
-                                ut aliquip ex ea.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Duis aute irure
-                                dolor in reprehenderit in voluptate.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Velit esse cillum
-                                dolore eu fugiat nulla.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Excepteur sint
-                                occaecat cupidatat non proident.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Tailored Designs: Unique solutions that reflect your personality.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Experienced Designers: A knowledgeable team committed to excellence.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Premium Quality: Use of top materials for lasting results.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Collaborative Process: Open communication and partnership with clients.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>On-Time Completion: Respecting timelines without compromising quality.</li>
                         </ul>
                     </div>
                 </div>

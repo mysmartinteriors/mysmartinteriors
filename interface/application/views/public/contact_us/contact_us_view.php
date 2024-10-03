@@ -27,9 +27,7 @@
                     <div class="col-xl-5 col-lg-6 col-md-8 col-sm-12 col-12">
                         <div class="banner_content" data-aos="fade-up">
                             <h1>Contact Us</h1>
-                            <p class="text-size-14 text-white mb-0">Duis aute irure dolor in reprehenderit in voluptate
-                                velit esse cillum
-                                dolore eu fugiat nulla pariat cepteur sint o ccaecat cupidatat.
+                            <p class="text-size-14 text-white mb-0">We are here to help you bring your vision to life! Reach out to us with any questions or inquiries, or fill out the form below for assistance.
                             </p>
                         </div>
                     </div>

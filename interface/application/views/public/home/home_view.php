@@ -34,21 +34,16 @@
                 <div class="col-lg-7 col-md-10 col-sm-12 col-12">
                     <div class="about_content" data-aos="fade-right">
                         <h2>About Us</h2>
-                        <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi.</p>
-                        <p class="text-size-14">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                            dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                            culpa
-                            qui officia deserunt mollit anim id est tempora incidunt ut labore et dolore magnam aliquam
-                            quae.</p>
-                        <a class="read_more text-decoration-none" href="about.html">Read More
+                        <p class="text-size-16">At Mysmartinteriors, we transform ordinary spaces into extraordinary experiences. Our mission is to blend artistry and functionality, creating environments that inspire and rejuvenate. With a keen eye for detail and a passion for innovation, our talented team designs interiors that are not only visually stunning but also deeply personal.
+
+</p>
+                        <p class="text-size-14">Let us guide you in creating a space that truly feels like home—where every element is thoughtfully curated just for you.</p>
+                        <!-- <a class="read_more text-decoration-none" href="about.html">Read More
                             <i class="dot fa-solid fa-circle-small"></i>
-                        </a>
+                        </a> -->
                         <!-- <div class="last_list">
                             <figure class="header-headphoneicon mb-0"><img class="img-fluid"
-                                    src="<?php //echo base_url() 
-                                            ?>ui/assets/images/header-headphoneicon.png" alt="">
+                                    src="<?php //echo base_url() ?>ui/assets/images/header-headphoneicon.png" alt="">
                             </figure>
                             <div class="content">
                                 <span>Get Support</span>
@@ -216,8 +211,7 @@
                             <img src="<?php echo base_url() ?>ui/assets/images/contract-icon.png" alt="" class="img-fluid">
                         </figure>
                         <h5>Why work with Us</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Transform your space with tailored design solutions, exceptional attention to detail, and a commitment to bringing your vision to life with every project.</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-0">
@@ -227,8 +221,7 @@
                                 class="img-fluid">
                         </figure>
                         <h5>offices in all City</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Bangalore , karnataka</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-12 p-0">
@@ -237,8 +230,7 @@
                             <img src="<?php echo base_url() ?>ui/assets/images/chat-icon.png" alt="" class="img-fluid">
                         </figure>
                         <h5>client results</h5>
-                        <p class="text-size-14 mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit sed do
-                            eiusmod tempor incididunt ut labore.</p>
+                        <p class="text-size-14 mb-0">Clients celebrate remarkable transformations that not only beautify their spaces but also improve functionality,creating homes that truly resonate with their vision and lifestyle.</p>
                     </div>
                 </div>
             </div>
@@ -399,20 +391,13 @@
                 <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                     <div class="choose_content" data-aos="fade-left">
                         <h2>Why Choose Us</h2>
-                        <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                            sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim veniam,
-                            quis nostrud exercitation ullamco laboris nisi.</p>
+                        <p class="text-size-16">At MySmart Interiors, we are dedicated to transforming your spaces with innovative designs that reflect your unique style. Our expert team ensures a seamless experience, combining creativity with functionality to meet your needs. Discover why we’re the ideal choice for your next project!</p>
                         <ul class="list-unstyled mb-0">
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Ut enim ad minim
-                                veniam, quis nostrud exercitation.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Ullamco laboris nisi
-                                ut aliquip ex ea.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Duis aute irure
-                                dolor in reprehenderit in voluptate.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Velit esse cillum
-                                dolore eu fugiat nulla.</li>
-                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Excepteur sint
-                                occaecat cupidatat non proident.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Custom Solutions: Designs tailored specifically for you.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Expert Team: Skilled professionals with extensive experience.</i>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Quality Craftsmanship: High-quality materials and attention to detail.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Client-Centric Approach: Collaboration and communication throughout the process.</li>
+                            <li class="text text-size-14"><i class="circle fa-duotone fa-check"></i>Timely Delivery: Commitment to completing projects on schedule.</li>
                         </ul>
                     </div>
                 </div>

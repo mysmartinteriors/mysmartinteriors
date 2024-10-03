@@ -14,13 +14,13 @@
                         <a href="<?php echo base_url() ?>">
                             <figure class="footer-logo"><img
                                     src="<?php echo base_url() ?>ui/assets/images/footer-logo.png" alt=""
-                                    style="width: 190px"></figure>
+                                    style="width: 500px; opacity: 0.2;filter: invert(0)"></figure>
                         </a>
                         <h6>Sign-up to get the latest offers and news and stay updated.</h6>
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col-12">
                     <form method="POST">
                         <div class="form-row">
@@ -37,7 +37,7 @@
                         </div>
                     </form>
                 </div>
-            </div>
+            </div> -->
             <div class="row">
                 <div class="col-12">
                     <ul class="links mb-0 list-unstyled">
@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 col-12">
-                    <p class="mb-0 text-size-14">©2023 Hillcrest Interior, All Rights Reserved. </p>
+                    <p class="mb-0 text-size-14">©2024 MySmart Interiors , All Rights Reserved. </p>
                 </div>
             </div>
         </div>

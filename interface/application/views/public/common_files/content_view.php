@@ -13,14 +13,9 @@
             <div class="col-lg-7 col-md-10 col-sm-12 col-12">
                 <div class="about_content" data-aos="fade-right">
                     <h2>About Us</h2>
-                    <p class="text-size-16">Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore magna aliquat enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi.</p>
-                    <p class="text-size-14">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-                        dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-                        culpa
-                        qui officia deserunt mollit anim id est tempora incidunt ut labore et dolore magnam aliquam
-                        quae.</p>
+                    <p class="text-size-16">At Mysmartinteriors, we transform ordinary spaces into extraordinary experiences. Our mission is to blend artistry and functionality, creating environments that inspire and rejuvenate. With a keen eye for detail and a passion for innovation, our talented team designs interiors that are not only visually stunning but also deeply personal.
+</p>
+                    <p class="text-size-14">We believe that great design begins with understanding your vision. By collaborating closely with you, we craft tailored solutions that reflect your unique lifestyle and taste. Our commitment to quality and sustainability ensures that every project is both beautiful and responsible.</p>
                     <a class="read_more text-decoration-none" href="about.html">Read More
                         <i class="dot fa-solid fa-circle-small"></i>
                     </a>
